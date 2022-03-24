@@ -14488,3 +14488,5 @@ window.onload=function()
 		}
 	}
 };
+Game.LoadMod('https://cdn.jsdelivr.net/gh/Ancyker/Crustulum/Crustulum.js');
+Game.LoadMod('https://raw.githubusercontent.com/TruGam3rr/stuff/main/cookie%20clicker/Klattmose%20Utilities.js');
