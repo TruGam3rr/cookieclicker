@@ -1,4 +1,4 @@
-// Game.LoadMod('https://cdn.jsdelivr.net/gh/Ancyker/Crustulum/Crustulum.js')
+// Game.LoadMod('https://cdn.jsdelivr.net/gh/trugam3rr/cookieclicker@gh-pages/mods/crustulum.js')
 if (typeof Crustulum !== 'undefined') {
     if (Crustulum === null) {
         delete Crustulum;
