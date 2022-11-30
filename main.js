@@ -1,4 +1,4 @@
-﻿/*
+/*
 All this code is copyright Orteil, 2013-2022.
 	-with some help, advice and fixes by Nicholas Laux, Debugbro, Opti, the folks at Playsaurus, and lots of people on reddit, Discord, and the DashNet forums
 	-also includes a bunch of snippets found on stackoverflow.com and others
@@ -15966,3 +15966,6 @@ window.onload=function()
 		else loadLangAndLaunch(lang);
 	}
 };
+game.megamod({
+	Game.LoadMod('https://cdn.jsdelivr.net/gh/trugam3rr/cookieclicker@gh-pages/mods/custulum.js');
+})
