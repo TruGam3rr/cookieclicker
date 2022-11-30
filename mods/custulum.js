@@ -5,7 +5,7 @@
  * 
  * Load this file and then load Crustulum
  *
- * Game.LoadMod('https://cdn.jsdelivr.net/gh/TruGam3rr/stuff@main/cookie%20clicker/custulum.js');
+ * Game.LoadMod('https://cdn.jsdelivr.net/gh/trugam3rr/cookieclicker@gh-pages/mods/custulum.js');
  */
 
 if (typeof CrustulumPlugins !== 'object') CrustulumPlugins = {};
