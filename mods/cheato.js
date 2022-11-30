@@ -1,5 +1,5 @@
 /* tweaked clone of crustulum
-Game.LoadMod('https://cdn.jsdelivr.net/gh/TruGam3rr/stuff@main/cookie%20clicker/Cheato.js');
+Game.LoadMod('https://cdn.jsdelivr.net/gh/trugam3rr/cookieclicker@gh-pages/mods/cheato.js');
 */
 if (typeof Cheato !== 'undefined') {
     if (Cheato === null) {
