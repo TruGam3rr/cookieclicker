@@ -1,4 +1,4 @@
-/**
+/*
  * Sample Plugin for Crustulum
  * 
  * Adds more buttons.
